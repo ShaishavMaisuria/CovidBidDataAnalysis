@@ -21,5 +21,6 @@ Research Questions:
 - What percentage of the population is hospitalized?
 
 Data Resource:
-Dataset - https://dj2taa9i652rf.cloudfront.net/
-Registry - https://registry.opendata.aws/aws-covid19-lake/
+
+- Dataset: https://dj2taa9i652rf.cloudfront.net/
+- Registry: https://registry.opendata.aws/aws-covid19-lake/
