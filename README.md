@@ -2,7 +2,7 @@
 
 Covid-19 Data Lake analysis
 
-Team Members: Anuj Sharma, Aayush Patel, Shaishav Maisuria
+Team Members: Anuj Sharma, Aayush Patel, Shaishav Maisuria, Ishani Naik, 
 
 Introduction to Problem:
 AWS Covid-19 data lake is open source. In our project we will be using this dataset for analysis using AWS. Analysis could be made such as -
