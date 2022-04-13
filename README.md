@@ -1,6 +1,6 @@
 # CovidBigDataAnalysis
 
-**Covid-19 Data Lake analysis**
+**Topic:** Covid-19 Data Lake analysis
 
 **Team Members:** Anuj Sharma, Aayush Patel, Shaishav Maisuria, Ishani Naik, Kautilya Kondragunta
 
