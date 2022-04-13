@@ -9,10 +9,14 @@ AWS Covid-19 data lake is open source. In our project, we will be using this dat
 
 **Research Questions:**
 How many people were tested, pending tests, and positive and negative tests for COVID-19?
+
 What percentage of the population took the vaccine?
+
 What is the trend of the virus (are the daily cases rising or are they decreasing)?
+
 What percentage of the population is hospitalized?
 
 **Data Resource:**
 Dataset: https://dj2taa9i652rf.cloudfront.net/
+
 Registry: https://registry.opendata.aws/aws-covid19-lake/
