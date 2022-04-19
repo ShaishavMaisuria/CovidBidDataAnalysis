@@ -22,6 +22,8 @@ AWS Covid-19 data lake is open source. In our project, we will be using this dat
 
 # [Dashboard](https://github.com/ShaishavMaisuria/CovidBigDataAnalysis/blob/main/Dashboard.pdf)
 
+## [Quicksight Dashboard](https://us-east-1.quicksight.aws.amazon.com/sn/dashboards/8f93d70b-6512-44b7-a44e-c6c934a24c06/views/1de9c094-0f48-4242-98e4-9151c9244abe)
+
 ## Viz 1
 - As can be seen from the graph, the total number of deaths during the early period is negligible, but as time passed, the mortality rate rose to 205,859 on September 29, 2020.
 
