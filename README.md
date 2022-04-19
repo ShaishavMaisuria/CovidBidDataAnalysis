@@ -20,7 +20,7 @@ AWS Covid-19 data lake is open source. In our project, we will be using this dat
 
 * What percentage of the population is hospitalized?
 
-[Dashboard](https://github.com/ShaishavMaisuria/CovidBigDataAnalysis/blob/main/Dashboard.pdf)
+# [Dashboard](https://github.com/ShaishavMaisuria/CovidBigDataAnalysis/blob/main/Dashboard.pdf)
 
 ## Viz 1
 - point 1
