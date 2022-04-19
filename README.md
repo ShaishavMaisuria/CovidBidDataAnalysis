@@ -23,7 +23,32 @@ AWS Covid-19 data lake is open source. In our project, we will be using this dat
 # [Dashboard](https://github.com/ShaishavMaisuria/CovidBigDataAnalysis/blob/main/Dashboard.pdf)
 
 ## Viz 1
-- point 1
+- As can be seen from the graph, the total number of deaths during the early period is negligible, but as time passed, the mortality rate rose to 205,859 on September 29, 2020.
+
+## Viz 2
+- We were able to identify the covid analysis based on the total of Patients in ICU and Patients' ventilators.
+- The total number of patients in the ICU surpasses the total number of patients on ventilators.
+
+## Viz 3
+- The graph depicts the number of persons that tested positive/negative following a test.
+- As can be seen, some fewer people test positive, with New York State topping the list.
+
+## Viz 4
+- The graph shows the number of patients admitted to hospitals per state.
+- Compared to other states, California, New York, and Texas have the most significant number of hospitalized patients.
+
+## Viz 5
+- The graph depicts the overall number of patients who could recover after testing positive.
+- When comparing Viz4 and Viz5, Texas has a more significant percentage of patients who recover than those who are hospitalized.
+
+## Viz 6
+- The graph depicts the total number of positive tests by state.
+- California, New York, Texas, and Florida are among the highest-rated states compared to others.
+
+## Viz 7
+- The graph depicts the number of patients in the intensive care unit (ICU) and those on ventilators.
+- The number of ICU patients in California is higher than in New Jersey. On the other hand, patients on ventilators are in the opposite situation.
+
 
 **Data Resource:**
 
