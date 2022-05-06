@@ -67,4 +67,4 @@ For applying machine learning algorithms to predict deaths due to covid -19, the
 * Registry: https://registry.opendata.aws/aws-covid19-lake/
 
 **Narrated Presentation**
-* Google Drive Link: https://drive.google.com/file/d/1YfEm105sXQzn481UpjPPgm5FC1vWOT9b/view?usp=sharing
+* Google Drive Link: https://drive.google.com/file/d/1YajL1S6jFo545Q69AekMk8MBsqxtSyU5/view?usp=sharing
