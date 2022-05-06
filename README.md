@@ -51,6 +51,13 @@ AWS Covid-19 data lake is open source. In our project, we will be using this dat
 - The graph depicts the number of patients in the intensive care unit (ICU) and those on ventilators.
 - The number of ICU patients in California is higher than in New Jersey. On the other hand, patients on ventilators are in the opposite situation.
 
+**Analytics and Evaluation**
+For applying machine learning algorithms to predict deaths due to covid -19, the data was split into 70-30 ratio for training and testing respectively. To predict deaths according to the states, we used 3 machine learning models to evaluate and find out which model gives the best result. The metrics we used to evaluate the models were: R squared score,Mean squared error and Mean absolute error.The models we used were: 
+
+- Linear Regression
+- Random Forest Regression
+- Logistic Regression
+
 
 **Data Resource:**
 
